@@ -59,3 +59,9 @@ print(Hello, Markdown!")
 
 ## 이스케이프 문자
 \*별표\*
+
+# 자기소개
+
+
+#### 기본 정보
+- MBTI : INTJ
