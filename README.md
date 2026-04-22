@@ -44,24 +44,3 @@ ___
 |내용 3|내용 4|
 <br>
 <br>
-
-## 하이퍼 링크 적용
-<https://www.example.com>
-<br>
-<br>
-
-## 코드
-''' python
-print(Hello, Markdown!")
-'''
-<br>
-<br>
-
-## 이스케이프 문자
-\*별표\*
-
-# 자기소개
-
-
-#### 기본 정보
-- MBTI : INTJ
